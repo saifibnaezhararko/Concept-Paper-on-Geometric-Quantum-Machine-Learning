@@ -1,0 +1,4 @@
+One famous problem in BQP is integer factorization (finding prime factors of a large number). 
+Classical computers struggle to factor very large numbers efficiently, but a quantum algorithm called 
+Shor's Algorithm can factor numbers in polynomial time. This makes BQP highly relevant for fields like cryptography, 
+where security is based on the difficulty of factoring large numbers.
